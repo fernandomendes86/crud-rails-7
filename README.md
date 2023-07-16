@@ -1,5 +1,5 @@
 # crud-rails-7
 
-Ruby 3
-Rails 7
-Rspec
+- Ruby 3
+- Rails 7
+- Rspec
